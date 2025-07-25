@@ -117,6 +117,7 @@ uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 enabled = false
 build-mode = "apk"
 version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Spotify-Lite]
